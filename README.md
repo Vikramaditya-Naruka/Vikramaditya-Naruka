@@ -45,7 +45,8 @@ I am a Data Scientist with a robust foundation in data analytics, machine learni
 
 **Contact:**
  **Email:** vikramadityanaruka@gmail.com
+ 
  **Linkedin:** (https://www.linkedin.com/in/vikramaditya-singh-naruka-023460222)
- **Phone:** +91 8955157128
+
 
 ---
