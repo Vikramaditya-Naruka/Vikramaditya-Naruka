@@ -23,7 +23,7 @@ I am a Data Scientist with a robust foundation in data analytics, machine learni
 - Experimentation and Causal Inference
 
 - **Tools:**
-- 
+  
 - Linux Operating System
 - Power BI
 - Tableau
@@ -36,7 +36,7 @@ I am a Data Scientist with a robust foundation in data analytics, machine learni
 **Education:**
 - **Bachelor's Degree in Artificial Intelligence & Data Science** (2020 - 2024, Rajasthan Technical University, Jaipur, Rajasthan)
   - GPA: 8.17
-- 
+ 
 **Certifications:**
   **Data SCience Intern** (ProdigyInfoTech)
 - **Python Programming Certificate** (GRRAS Solution Pvt. Ltd)
