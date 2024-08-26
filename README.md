@@ -5,10 +5,6 @@
 I am a Data Scientist with a robust foundation in data analytics, machine learning, and deep learning. I possess strong technical proficiency in Python, SQL, and Power BI, Machine Learning , Deep Learning and NLP which I utilize to extract meaningful insights from data and create impactful, data-driven solutions. My academic background, complemented by hands-on experience in real-world projects, has equipped me with the skills to drive innovation and excellence in the field of Data Science.
 
 
-**Education:**
-- **Bachelor's Degree in Artificial Intelligence & Data Science** (2020 - 2024, Rajasthan Technical University, Jaipur, Rajasthan)
-  - GPA: 8.17
-
 **Technical Skills:**
 - **Programming Languages:** Python, SQL ,C++ 
 - **Data Science & Machine Learning:**  Machine Learning
@@ -35,6 +31,11 @@ I am a Data Scientist with a robust foundation in data analytics, machine learni
 - PyTorch
 - Git/GitHub
 - Google Cloud Platform (GCP)
+
+  
+**Education:**
+- **Bachelor's Degree in Artificial Intelligence & Data Science** (2020 - 2024, Rajasthan Technical University, Jaipur, Rajasthan)
+  - GPA: 8.17
 - 
 **Certifications:**
   **Data SCience Intern** (ProdigyInfoTech)
